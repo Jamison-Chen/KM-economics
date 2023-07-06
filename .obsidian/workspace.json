@@ -1,0 +1,328 @@
+{
+  "main": {
+    "id": "66b1c54638ef32d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb25b8af2874a25b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "309a6155591c31b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Iterable vs. Iterator.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c90de000efc1f0ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/零碎筆記.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "44287adaaee3e368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network/HTTP.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cc80d0e4d777a595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network/The OSI Model.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bba210b4ad65169e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "軟體開發必學工具/Git/CH3 - 開始使用 Git.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8b797ab5fbbe48e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "軟體開發必學工具/Git/CH2 - 安裝與設定.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "80d56531145f1da3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pinkoi/關於 Code 的零碎筆記.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "571a50b0b3b30c56",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Pinkoi/Tasks/get_product api profiling.canvas",
+                "viewState": {
+                  "x": 3016.111565686612,
+                  "y": -284.6560836381728,
+                  "zoom": -0.3597083752513606
+                }
+              }
+            }
+          },
+          {
+            "id": "7e68887dc1b12aa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pinkoi/Profiling.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1a45a73189e7ac28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "軟體開發必學工具/Git/remote, push, fetch, pull.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b284ab878c6b904",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6ecab98157f6640",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1bd1f7fdbf4fc65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "7ff5e6399a0b5da8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tuple",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6cb918ae06a765fc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f237943f62f3ad40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f13142408b62142a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2539af9153711b6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91a0836cdf5ba434",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "軟體開發必學工具/Git/CH2 - 安裝與設定.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2426c6870b8fbfd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "軟體開發必學工具/Git/CH2 - 安裝與設定.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a477742a8c6f5ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d0827529fb16ae81",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "軟體開發必學工具/Git/CH2 - 安裝與設定.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8b797ab5fbbe48e4",
+  "lastOpenFiles": [
+    "Pinkoi/Tasks/get_product api profiling.canvas",
+    "Pinkoi/Profiling.md",
+    "Pinkoi/Tasks/unread message 數量顯示錯誤.canvas",
+    "軟體開發必學工具/Git/remote, push, fetch, pull.md",
+    "Database/Index (索引).md",
+    "Pinkoi/權限管理.md",
+    "Operating System/Linux/使用者與群組.md",
+    "Python/零碎筆記.md",
+    "Pinkoi/借用開發機.md",
+    "Pinkoi/關於 Code 的零碎筆記.md",
+    "Network/與檔案傳輸相關的 Protocol.md",
+    "Python/Iterable vs. Iterator.md",
+    "軟體開發必學工具/Git/Commit Message.md",
+    "軟體開發必學工具/Git/CH3 - 開始使用 Git.md",
+    "軟體開發必學工具/Git/clone, fork.md",
+    "軟體開發必學工具/Git/零碎筆記.canvas",
+    "Network/SSH 基本概念.md",
+    "Pinkoi/Tasks/vatm line point.canvas",
+    "軟體開發必學工具/Git/stash.md",
+    "Operating System/Linux/權限管理.md",
+    "Operating System/Linux/常用指令.md",
+    "Python/Generator and the yield Statement.md",
+    "Pinkoi/Tasks/SRP SEO.canvas",
+    "Pinkoi/Tasks/Auto Generated alt.canvas",
+    "Pinkoi/Tasks/Paging.canvas",
+    "軟體開發必學工具/Git/CH2 - 安裝與設定.md",
+    "Pinkoi/desktop.canvas",
+    "Network/The OSI Model.md",
+    "Pinkoi/Cron Jobs.md",
+    "Pinkoi/Celery Tasks.md",
+    "Pinkoi/apiv3.md",
+    "Pinkoi/Admin Tool.md",
+    "JavaScript/Node.js/在 Node.js 裡使用 TypeScript.md",
+    "軟體開發必學工具/Git/GitHub",
+    "第三方服務",
+    "img/get_product_jamison.svg",
+    "Side Projects/Wiki Prettier.canvas",
+    "Side Projects/Virus Spread.canvas",
+    "img/import flow 2.jpg",
+    "System Design/第三方服務",
+    "img/debezium-arch.png",
+    "img/debezium-arch.png.crdownload",
+    "img/cdc.webp",
+    "img/log-based-cdc.png",
+    "img/etl-vs-elt.png",
+    "img/exchanges-topic-fanout-direct.png",
+    "img/kafka-setup.png",
+    "img/exchanges-bidings-routing-keys.png",
+    "img/1685460729269.jpeg",
+    "Pinkoi/What I've Done Last Quarter",
+    "Pinkoi/Tasks",
+    "img/Fanout.png.crdownload",
+    "img/PubSub.png.crdownload",
+    "img/Publish-subscribe-pattern.jpg.crdownload",
+    "img/message-queue_direct-connection-integration.png.crdownload"
+  ]
+}

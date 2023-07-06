@@ -1,0 +1,119 @@
+{
+  "workspace:close-others": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "workspace:close-window": [],
+  "app:open-settings": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "app:go-back": [],
+  "editor:follow-link": [],
+  "file-explorer:new-file": [],
+  "editor:insert-link": [],
+  "slides:start": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "global-search:open": [],
+  "editor:open-link-in-new-leaf": [],
+  "command-palette:open": [],
+  "app:go-forward": [],
+  "editor:delete-paragraph": [],
+  "workspace:goto-last-tab": [],
+  "workspace:next-tab": [],
+  "workspace:previous-tab": [],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-8": [],
+  "theme:use-light": [
+    {
+      "modifiers": [],
+      "key": "F6"
+    }
+  ],
+  "theme:use-dark": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:cycle-list-checklist": [],
+  "editor:toggle-checklist-status": [],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "file-explorer:new-file-in-new-pane": [],
+  "editor:open-link-in-new-split": [],
+  "editor:open-link-in-new-window": [],
+  "workspace:edit-file-title": [],
+  "editor:set-heading-1": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "editor:set-heading-2": [],
+  "editor:set-heading-3": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "3"
+    }
+  ],
+  "app:toggle-left-sidebar": [],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "editor:toggle-spellcheck": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ]
+}
