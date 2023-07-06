@@ -4,7 +4,6 @@ DIRECTORIES_TO_IGNORE = (
     ".trash",
     "node_modules",
     "img",
-    "Pinkoi",
 )
 SUMMARY_FILE_NAME = "SUMMARY.md"
 FILES_TO_IGNORE = (
