@@ -2,7 +2,10 @@
 * {
   --radius-s: 5px;
   --h1-size: 2rem;
-  --list-indent: 1.5em;
+  --h6-size: calc(1.1 * var(--font-text-size));
+  --list-indent: 1.5rem;
+  --p-spacing: 1.8rem;
+  font-kerning: normal;
 }
 *:not(pre), *:not(code) {
   text-align: justify;
@@ -37,9 +40,7 @@ h1 {
   position: relative;
   margin: 20px 0 !important;
   padding: 100px 0 15px;
-  border-bottom: 2px solid rgba(170, 170, 170, 0.3333333333);
-  border-radius: 2px;
-  letter-spacing: 0.07rem !important;
+  letter-spacing: 0.06rem !important;
   line-height: 2.8rem !important;
 }
 h1::before {
@@ -52,18 +53,41 @@ h1::before {
   text-align: center;
   color: rgba(170, 170, 170, 0.3333333333);
 }
+h1::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  border-radius: 3px;
+  background-color: rgba(170, 170, 170, 0.2666666667);
+}
 
-ul > li {
-  margin-bottom: 15px;
+ul > li,
+ol > li {
+  margin-bottom: 10px;
+  line-height: 1.8rem;
+}
+ul > li p,
+ol > li p {
+  margin-block-start: 1rem;
+  margin-block-end: 1rem !important;
+}
+ul ul,
+ul ol,
+ol ul,
+ol ol {
+  margin: 10px 0 !important;
 }
 
 h3 {
-  margin: 40px 0 0 !important;
+  margin: 45px 0 20px !important;
 }
 
 p {
   line-height: 1.8rem;
-  margin-block-end: 1em !important;
+  margin-block-start: 1rem;
   letter-spacing: 1px;
 }
 
@@ -83,13 +107,12 @@ iframe {
 
 .markdown-rendered pre {
   border-radius: 0.7em;
-  padding-top: 15px;
-  padding-bottom: 15px;
-  overflow-x: auto;
+  padding: 0;
 }
 .markdown-rendered pre > code {
-  width: fit-content;
   white-space: pre;
+  padding: 15px 20px;
+  overflow-x: auto;
 }
 .markdown-rendered code {
   border-radius: 0.3em;
@@ -110,6 +133,10 @@ iframe {
   text-align: center;
   color: rgba(170, 170, 170, 0.3333333333);
   font-size: 2.4rem;
+}
+.markdown-rendered mjx-container[display=true] {
+  margin: 2rem 0 !important;
+  font-size: 1.2rem;
 }
 
 blockquote {
@@ -159,6 +186,7 @@ blockquote::before {
 
 table {
   width: 100%;
+  margin-block: var(--p-spacing);
 }
 
 a.tag {
