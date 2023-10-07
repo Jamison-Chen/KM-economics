@@ -1,7 +1,9 @@
 * {
     --radius-s: 5px;
     --h1-size: 2rem;
-    --list-indent: 1.5em;
+    --h6-size: calc(1.1 * var(--font-text-size));
+    --list-indent: 1.5rem;
+    --p-spacing: 1.8rem;
     &:not(pre),
     &:not(code) {
         text-align: justify;
@@ -12,6 +14,7 @@
         text-align: justify;
         text-justify: inter-word;
     }
+    font-kerning: normal;
 }
 
 .theme-dark {
@@ -35,12 +38,11 @@
 }
 
 h1 {
+    $margin-y: 20px;
     position: relative;
-    margin: 20px 0 !important;
+    margin: $margin-y 0 !important;
     padding: 100px 0 15px;
-    border-bottom: 2px solid #aaa5;
-    border-radius: 2px;
-    letter-spacing: 0.07rem !important;
+    letter-spacing: 0.06rem !important;
     line-height: 2.8rem !important;
     &::before {
         content: "．．．";
@@ -48,25 +50,45 @@ h1 {
         top: 0;
         left: 0;
         width: 100%;
-        margin-top: 20px;
+        margin-top: $margin-y;
         text-align: center;
         color: #aaa5;
     }
+    &::after {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 3px;
+        border-radius: 3px;
+        background-color: #aaa4;
+    }
 }
 
-ul {
+ul,
+ol {
     & > li {
-        margin-bottom: 15px;
+        margin-bottom: 10px;
+        line-height: 1.8rem;
+        p {
+            margin-block-start: 1rem;
+            margin-block-end: 1rem !important;
+        }
+    }
+    ul,
+    ol {
+        margin: 10px 0 !important;
     }
 }
 
 h3 {
-    margin: 40px 0 0 !important;
+    margin: 45px 0 20px !important;
 }
 
 p {
     line-height: 1.8rem;
-    margin-block-end: 1em !important;
+    margin-block-start: 1rem;
     letter-spacing: 1px;
 }
 
@@ -87,12 +109,11 @@ iframe {
 .markdown-rendered {
     pre {
         border-radius: 0.7em;
-        padding-top: 15px;
-        padding-bottom: 15px;
-        overflow-x: auto;
+        padding: 0;
         & > code {
-            width: fit-content;
             white-space: pre;
+            padding: 15px 20px;
+            overflow-x: auto;
         }
     }
     code {
@@ -114,6 +135,10 @@ iframe {
             color: #aaa5;
             font-size: 2.4rem;
         }
+    }
+    mjx-container[display="true"] {
+        margin: 2rem 0 !important;
+        font-size: 1.2rem;
     }
 }
 
@@ -166,6 +191,7 @@ blockquote {
 
 table {
     width: 100%;
+    margin-block: var(--p-spacing);
 }
 
 a {
