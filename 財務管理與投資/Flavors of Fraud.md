@@ -1,5 +1,7 @@
 原文：[Flavors of Fraud](https://www.nytimes.com/2002/06/28/opinion/flavors-of-fraud.html)
 
+# 重點摘要
+
 假設投資人看到一間公司有「漂亮的財報」或者其他「漂亮的數據」就會看好該公司的股票，則公司大概有以下幾種做法可以欺騙投資人：
 
 ### Enron Strategy
