@@ -83,7 +83,7 @@ $$
 
 在投資中，金錢就是報酬，所以人們在投資時的風險偏好取決於財富所帶來的邊際效益，如下圖所示：
 
-![[Risk.png]]
+![](<https://raw.githubusercontent.com/Jamison-Chen/KM-software/master/img/Risk.png>)
 
 # 如何降低風險？
 
