@@ -2,6 +2,7 @@
 
 - 會計
   - [零碎筆記](<././會計/零碎筆記.md>)
+  - [Balance Sheet](<././會計/Balance Sheet.md>)
 - 總體經濟與貨幣銀行
   - [Money Growth & Inflation](<././總體經濟與貨幣銀行/Money Growth & Inflation.md>)
   - [Aggregate Demand & Aggregate Supply](<././總體經濟與貨幣銀行/Aggregate Demand & Aggregate Supply.md>)
@@ -17,5 +18,8 @@
   - 經典文章
     - [Flavors of Fraud](<././財務管理與投資/經典文章/Flavors of Fraud.md>)
 - 個體經濟
+  - [零碎筆記](<././個體經濟/零碎筆記.md>)
   - [Information Asymmetry](<././個體經濟/Information Asymmetry.md>)
+  - Game Theory
+    - [零碎筆記](<././個體經濟/Game Theory/零碎筆記.md>)
   - [Financial Economics](<././個體經濟/Financial Economics.md>)

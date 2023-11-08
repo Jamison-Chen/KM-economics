@@ -83,7 +83,7 @@ $$
 
 在投資時，金錢就是報酬，所以人們在投資時的風險偏好取決於「財富所帶來的邊際效益」：
 
-![[attitude-to-risk.png]]
+![](<https://raw.githubusercontent.com/Jamison-Chen/KM-economics/master/img/attitude-to-risk.png>)
 
 # 如何降低風險？
 
@@ -135,7 +135,7 @@ $$
 
 下圖是分散程度對風險的關係圖：
 
-![[risk-diversifying.png]]
+![](<https://raw.githubusercontent.com/Jamison-Chen/KM-economics/master/img/risk-diversifying.png>)
 
 - 有一些風險是無論怎麼分都分不掉的，這些分散不掉的風險被稱為 **Market Risk**。看起來再不相干的兩個金融商品，其價格都有可能受到某些共同的因素影響，比如世界末日快來時，不管哪一間公司的股票大概都會一起崩跌。
 
