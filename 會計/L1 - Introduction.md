@@ -2,7 +2,7 @@
 
 >Accounting is the information system that identifies, records, and communicates the economic event of an organization to interested users.
 
-白話文：會計資訊是用來紀錄企業買賣商品及服務的故事。
+白話文：會計資訊是用來紀錄企業買賣商品／服務的故事。
 
 ### 三項會計活動
 
@@ -15,7 +15,7 @@ flowchart LR
     id2 --> id3
 ```
 
-### 何謂有效的資訊？
+### 有效的資訊
 
 有效的資訊必須擁有兩個特性：
 
@@ -39,8 +39,8 @@ flowchart LR
 
 |組織|準則|主要使用者|特色|
 |:-:|:-:|:-:|:-:|
-|IASB|IFRS|國際通用|只做原則性的「建議」 (principle-based)|
-|FASB|GAAP|美國|詳細「規範」每一個細則 (rule-based)|
+|IASB|IFRS|國際通用|Principle-based（只做原則性的「建議」）|
+|FASB|GAAP|美國|Rule-based（詳細「規範」每一個細則）|
 
 >[!Info]
 >台灣本來有自己的 GAAP (ROC GAAP)，但自 2013 開始採用 IFRS。
@@ -110,12 +110,127 @@ flowchart LR
 # 會計恆等式
 
 $$
-\large{\textnormal{Assets} = \textnormal{Liabilities} + \textnormal{Stock-Holders' Equity}}
+\large{\underset{資產}{\textnormal{Assets}} = \underset{負債}{\textnormal{Liabilities}} + \underset{股東權益}{\textnormal{Stock-Holders' Equity}}}
 $$
 
+### Assets（資產）
+
+具備下列必要條件者，可以被視為公司的資產：
+
+- 公司可以控制（但不一定有所有權）
+- 現在或預期未來可以產稱經濟效益
+
+>[!Note]
+>Employees (員工) 不是公司資產，因為公司控制不了員工！
+
+資產的分類方式有很多，包括：
+
+###### 以流動性區分
+
+- Current assets：一年內可兌現
+- Fixed assets (Non-current assets)：一年內無法兌現
+
+>[!Note]
+>Non-current assets 有可能隨著時間的推移而變成 current assets，比如有些 notes receivable (應收票據) 會從超過一年到期變成一年內到期。
+
+###### 以形體區分
+
+- Tangible assets
+- Intangible assets
+
+### Liabilities（負債）
+
+公司因過去的經濟活動產生的義務，該義務使得未來預期會有經濟資源流出。
+
+Liabilities 同時也被視為「債權人對公司資產的請求權」。
+
+###### 以流動性區分
+
+- Current liabilities：須在一年內清償
+- Non-current liabilities：無須在一年內清償
+
+### Share-Holders' Equity（股東權益）
+
+>[!Note]
+>其實會計恆等式應該寫成 $E = A - L$ ，因為 share-holders' equity 的定義就是「資產減去負債」。
+
+Share-holders' equity 簡稱 equity，又稱為 residual equity (剩餘權益)，因為法律上債權人對於公司資產具有優先請求權，剩下的才是股東／公司所有權人對公司資產的請求權。
+
+常見的 equity 包括：
+
+###### Common Stock (Share Capital - Ordinary)
+
 $$
-\textnormal{Assets} = \textnormal{Liabilities} + \textnormal{Stock-Holders' Equity}
+\underset{普通股股本}{\textnormal{Common Stock}} = \underset{面額}{\textnormal{par value}} \times \underset{在外流通股數}{\textnormal{shares outstanding}}
 $$
+
+###### Additional Paid-In Capital (APIC)
+
+$$
+\underset{資本公積}{\textnormal{APIC}} = (\textnormal{market value} - \textnormal{par value}) \times \textnormal{shares outstanding}
+$$
+
+###### Retained Earnings
+
+$$
+\underset{保留盈餘}{\textnormal{Retained Earnings}} = \underset{淨利}{\textnormal{net income}} - \underset{股利}{\textnormal{dividends}}
+$$
+
+###### Other Comprehensive Income (其他綜合損益, OCI)
+
+---
+
+Assets, liabilities, share-holders' equity 同時也是「資產負債表」的三大要素。
+
+# 衡量公司的經營績效
+
+一般常用 [[L2 - 各種財務指標#EPS|EPS]] 衡量公司的經營績效：
+
+$$
+\textnormal{EPS} = {\textnormal{net income} - \overset{特別股股利}{\textnormal{preferred dividends}} \over \textnormal{Avg. shares outstanding}}
+$$
+
+其中 $\textnormal{Net Income} = \textnormal{Revenues} - \textnormal{Expenses}$
+
+### Revenues
+
+Revenues 包括以下兩種：
+
+- 公司提供之產品或服務賣出後產生的收入
+    - 如果公司還未提供產品／服務就先收錢，這種收入稱為 unearned revenues（預收收入），==unearned revenues 屬於 liabilities==。
+- 公司其他經濟活動（如：金融商品的增值、處分 PP&E）產生的利益
+
+### Expenses
+
+Expenses 包括以下兩種：
+
+- 公司為了提供產品或服務所產生的支出
+    - 包括 wage expense (薪資費用)、interest expense (利息費用)、deprecation (折舊)、taxes (稅) … 等
+- 公司其他經濟活動產生的損失
+
+---
+
+>[!Info] 延伸會計恆等式
+>$$
+>\eqalign{
+>A
+>&= L + (\textnormal{Common Stock} + \textnormal{Retained Earnings})\\
+>&= L + (\textnormal{Common Stock} + \textnormal{Net Income} - \textnormal{Dividends})\\
+>&= L + (\textnormal{Common Stock} + \textnormal{Revenues} - \textnormal{Expenses} - \textnormal{Dividends})
+>}
+>$$
+
+# 經濟活動對會計恆等式的影響
+
+- 現金增資
+    - 等式左側：Cash 增加 → Assets 增加
+    - 等式右側：Common stock 增加 → Equity 增加
+- 購買設備（付現）
+    - 等式左側：Cash 減少、PP&E 增加 → Assets 不變
+    - 等式右側：不變
+- 賒購設備 (purchase on account)
+    - 等式左側：PP&E 增加 → Assets 增加
+    - 等式右側：Account Payable 增加 → Liabilities 增加
 
 # 參考資料
 
