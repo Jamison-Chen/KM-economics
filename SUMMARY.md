@@ -1,12 +1,7 @@
 # Summary
 
 - 經濟議題
-  - 墮胎合法化
-    - [墮胎合法化與犯罪率](<././經濟議題/墮胎合法化/墮胎合法化與犯罪率.md>)
-  - 黃牛條款
-    - [黃牛條款](<././經濟議題/黃牛條款/黃牛條款.md>)
-  - 大麻合法化
-    - [大麻合法化](<././經濟議題/大麻合法化/大麻合法化.md>)
+  - [常見的議題](<././經濟議題/常見的議題.md>)
   - [基本工資調漲](<././經濟議題/基本工資調漲.md>)
   - [外籍移工](<././經濟議題/外籍移工.md>)
   - [Bank as a Service](<././經濟議題/Bank as a Service.md>)
@@ -32,12 +27,13 @@
   - [L1 - Corporate Finance](<././財務管理與投資/L1 - Corporate Finance.md>)
   - 經典文章
     - [Flavors of Fraud](<././財務管理與投資/經典文章/Flavors of Fraud.md>)
-- 個體經濟
-  - [L8 - 廠商的生產函數與成本函數](<././個體經濟/L8 - 廠商的生產函數與成本函數.md>)
-  - [L22 - Financial Economics](<././個體經濟/L22 - Financial Economics.md>)
+- 經濟學原理與個體經濟
+  - [L8 - 廠商的生產函數與成本函數](<././經濟學原理與個體經濟/L8 - 廠商的生產函數與成本函數.md>)
+  - [L22 - Financial Economics](<././經濟學原理與個體經濟/L22 - Financial Economics.md>)
   - Game Theory
-    - [零碎筆記](<././個體經濟/Game Theory/零碎筆記.md>)
-  - [L21 - Information Asymmetry](<././個體經濟/L21 - Information Asymmetry.md>)
-  - [L1 - Introduction](<././個體經濟/L1 - Introduction.md>)
-  - [L5 - 政府失靈](<././個體經濟/L5 - 政府失靈.md>)
-  - [L10 - Monopoly](<././個體經濟/L10 - Monopoly.md>)
+    - [零碎筆記](<././經濟學原理與個體經濟/Game Theory/零碎筆記.md>)
+  - [L21 - Information Asymmetry](<././經濟學原理與個體經濟/L21 - Information Asymmetry.md>)
+  - [L1 - Introduction](<././經濟學原理與個體經濟/L1 - Introduction.md>)
+  - [L5 - 政府失靈](<././經濟學原理與個體經濟/L5 - 政府失靈.md>)
+  - [L2 - Demand](<././經濟學原理與個體經濟/L2 - Demand.md>)
+  - [L10 - Monopoly](<././經濟學原理與個體經濟/L10 - Monopoly.md>)
