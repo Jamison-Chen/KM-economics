@@ -1,6 +1,13 @@
 {
 	"nodes":[
-		{"id":"b27ca445e6d0832a","type":"text","text":"Principles of Economics 下次從 p.673 **4-4** 開始","x":-105,"y":-164,"width":256,"height":70}
+		{"id":"b27ca445e6d0832a","type":"text","text":"Principles of Economics 下次從 p.91 **FYI** 開始","x":-105,"y":-184,"width":298,"height":105,"color":"3"},
+		{"id":"338ca9e7a9dbfba7","type":"text","text":"[Adaptive Expectations](https://en.wikipedia.org/wiki/Adaptive_expectations)","x":-104,"y":-349,"width":258,"height":64},
+		{"id":"200ce89223215210","type":"text","text":"[Rational Expectations](https://en.wikipedia.org/wiki/Rational_expectations)","x":264,"y":-349,"width":255,"height":64},
+		{"id":"789c23e8583452d0","type":"text","text":"[其他文章](https://wiki.mbalib.com/zh-tw/%E8%A7%84%E5%88%B6%E4%BF%98%E8%99%8F%E7%90%86%E8%AE%BA)","x":604,"y":-168,"width":140,"height":54},
+		{"id":"eef28742deb1b192","type":"text","text":"[Regulatory Capture](https://en.wikipedia.org/wiki/Regulatory_capture)","x":286,"y":-172,"width":233,"height":63}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"fa109c7aa1d51a3b","fromNode":"338ca9e7a9dbfba7","fromSide":"right","toNode":"200ce89223215210","toSide":"left","fromEnd":"arrow"},
+		{"id":"bf6243e1be223dba","fromNode":"eef28742deb1b192","fromSide":"right","toNode":"789c23e8583452d0","toSide":"left"}
+	]
 }
