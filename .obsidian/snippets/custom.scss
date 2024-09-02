@@ -1,7 +1,7 @@
 * {
     --radius-s: 5px;
     --h1-size: 2rem;
-    --h6-size: calc(1.1 * var(--font-text-size));
+    --h5-size: calc(1.15 * var(--font-text-size));
     --list-indent: 1.5rem;
     --p-spacing: 1.8rem;
     &:not(pre),
@@ -211,4 +211,11 @@ a {
 .mermaid {
     display: flex;
     justify-content: center;
+}
+
+.canvas-node-content.markdown-embed {
+    padding: min(max(5%, 8px), var(--size-4-3)) 0;
+}
+.canvas-node h2 {
+    font-size: 2.5rem;
 }
