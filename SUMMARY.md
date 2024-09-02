@@ -29,11 +29,13 @@
     - [Flavors of Fraud](<././財務管理與投資/經典文章/Flavors of Fraud.md>)
 - 經濟學原理與個體經濟
   - [L8 - 廠商的生產函數與成本函數](<././經濟學原理與個體經濟/L8 - 廠商的生產函數與成本函數.md>)
+  - [L3 - Equilibrium & Surplus](<././經濟學原理與個體經濟/L3 - Equilibrium & Surplus.md>)
   - [L22 - Financial Economics](<././經濟學原理與個體經濟/L22 - Financial Economics.md>)
   - Game Theory
     - [零碎筆記](<././經濟學原理與個體經濟/Game Theory/零碎筆記.md>)
   - [L21 - Information Asymmetry](<././經濟學原理與個體經濟/L21 - Information Asymmetry.md>)
-  - [L1 - Introduction](<././經濟學原理與個體經濟/L1 - Introduction.md>)
+  - [L1 - Ten Principles of Economics](<././經濟學原理與個體經濟/L1 - Ten Principles of Economics.md>)
   - [L5 - 政府失靈](<././經濟學原理與個體經濟/L5 - 政府失靈.md>)
-  - [L2 - Demand](<././經濟學原理與個體經濟/L2 - Demand.md>)
+  - [L4 - Elasticity](<././經濟學原理與個體經濟/L4 - Elasticity.md>)
+  - [L2 - Introduction to Demand & Supply](<././經濟學原理與個體經濟/L2 - Introduction to Demand & Supply.md>)
   - [L10 - Monopoly](<././經濟學原理與個體經濟/L10 - Monopoly.md>)
