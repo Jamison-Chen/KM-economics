@@ -1,41 +1,42 @@
 # Summary
 
-- 經濟議題
-  - [常見的議題](<././經濟議題/常見的議題.md>)
-  - [基本工資調漲](<././經濟議題/基本工資調漲.md>)
-  - [外籍移工](<././經濟議題/外籍移工.md>)
-  - [Bank as a Service](<././經濟議題/Bank as a Service.md>)
-  - [囤房稅 2.0](<././經濟議題/囤房稅 2.0.md>)
-- 會計
-  - [零碎筆記](<././會計/零碎筆記.md>)
-  - [L3 - 紀錄](<././會計/L3 - 紀錄.md>)
-  - [L2 - 四大報表](<././會計/L2 - 四大報表.md>)
-  - [Balance Sheet](<././會計/Balance Sheet.md>)
-  - [L1 - Introduction](<././會計/L1 - Introduction.md>)
-- 總體經濟與貨幣銀行
-  - [Money Growth & Inflation](<././總體經濟與貨幣銀行/Money Growth & Inflation.md>)
-  - [Aggregate Demand & Aggregate Supply](<././總體經濟與貨幣銀行/Aggregate Demand & Aggregate Supply.md>)
-  - [L1 - Introduction](<././總體經濟與貨幣銀行/L1 - Introduction.md>)
-  - [經濟學家八大定律](<././經濟學家八大定律.md>)
-- 統計與計量經濟
-  - [L1 - Introduction](<././統計與計量經濟/L1 - Introduction.md>)
-- 財務管理與投資
-  - [L5 - 債券的定價](<././財務管理與投資/L5 - 債券的定價.md>)
-  - [L2 - 各種財務指標](<././財務管理與投資/L2 - 各種財務指標.md>)
-  - [L4 - 現金流量折現](<././財務管理與投資/L4 - 現金流量折現.md>)
-  - [L3 - 公司財務績效與競爭優勢之關係](<././財務管理與投資/L3 - 公司財務績效與競爭優勢之關係.md>)
-  - [L1 - Corporate Finance](<././財務管理與投資/L1 - Corporate Finance.md>)
-  - 經典文章
-    - [Flavors of Fraud](<././財務管理與投資/經典文章/Flavors of Fraud.md>)
-- 經濟學原理與個體經濟
-  - [L8 - 廠商的生產函數與成本函數](<././經濟學原理與個體經濟/L8 - 廠商的生產函數與成本函數.md>)
-  - [L3 - Equilibrium & Surplus](<././經濟學原理與個體經濟/L3 - Equilibrium & Surplus.md>)
-  - [L22 - Financial Economics](<././經濟學原理與個體經濟/L22 - Financial Economics.md>)
-  - Game Theory
-    - [零碎筆記](<././經濟學原理與個體經濟/Game Theory/零碎筆記.md>)
-  - [L21 - Information Asymmetry](<././經濟學原理與個體經濟/L21 - Information Asymmetry.md>)
-  - [L1 - Ten Principles of Economics](<././經濟學原理與個體經濟/L1 - Ten Principles of Economics.md>)
-  - [L5 - 政府失靈](<././經濟學原理與個體經濟/L5 - 政府失靈.md>)
-  - [L4 - Elasticity](<././經濟學原理與個體經濟/L4 - Elasticity.md>)
-  - [L2 - Introduction to Demand & Supply](<././經濟學原理與個體經濟/L2 - Introduction to Demand & Supply.md>)
-  - [L10 - Monopoly](<././經濟學原理與個體經濟/L10 - Monopoly.md>)
+- Software
+  - 經濟議題
+    - [常見的議題](<././經濟議題/常見的議題.md>)
+    - [蛋價的波動](<././經濟議題/蛋價的波動.md>)
+    - [基本工資調漲](<././經濟議題/基本工資調漲.md>)
+    - [外籍移工](<././經濟議題/外籍移工.md>)
+    - [Bank as a Service](<././經濟議題/Bank as a Service.md>)
+    - [囤房稅 2.0](<././經濟議題/囤房稅 2.0.md>)
+  - 經濟學原理
+    - [10 - Monopoly](<././經濟學原理/10 - Monopoly.md>)
+    - [2 - Introduction to Demand & Supply](<././經濟學原理/2 - Introduction to Demand & Supply.md>)
+    - [經濟學家八大定律](<././經濟學原理/經濟學家八大定律.md>)
+    - [15 - Game Theory](<././經濟學原理/15 - Game Theory.md>)
+    - [8 - 廠商的生產函數與成本函數](<././經濟學原理/8 - 廠商的生產函數與成本函數.md>)
+    - [3 - Equilibrium & Surplus](<././經濟學原理/3 - Equilibrium & Surplus.md>)
+    - [21 - Information Asymmetry](<././經濟學原理/21 - Information Asymmetry.md>)
+    - [22 - Financial Economics](<././經濟學原理/22 - Financial Economics.md>)
+    - [1 - Ten Principles of Economics](<././經濟學原理/1 - Ten Principles of Economics.md>)
+    - [4 - Elasticity](<././經濟學原理/4 - Elasticity.md>)
+    - [5 - 政府失靈](<././經濟學原理/5 - 政府失靈.md>)
+  - 會計
+    - [2 - 四大報表](<././會計/2 - 四大報表.md>)
+    - [零碎筆記](<././會計/零碎筆記.md>)
+    - [Balance Sheet](<././會計/Balance Sheet.md>)
+    - [3 - 紀錄](<././會計/3 - 紀錄.md>)
+    - [1 - Introduction](<././會計/1 - Introduction.md>)
+  - 總體經濟與貨幣銀行
+    - [3 - Money Growth & Inflation](<././總體經濟與貨幣銀行/3 - Money Growth & Inflation.md>)
+    - [1 - Introduction](<././總體經濟與貨幣銀行/1 - Introduction.md>)
+    - [2 - Aggregate Demand & Aggregate Supply](<././總體經濟與貨幣銀行/2 - Aggregate Demand & Aggregate Supply.md>)
+  - 統計與計量經濟
+    - [1 - Introduction](<././統計與計量經濟/1 - Introduction.md>)
+  - 財務管理與投資
+    - [2 - 各種財務指標](<././財務管理與投資/2 - 各種財務指標.md>)
+    - [4 - 現金流量折現](<././財務管理與投資/4 - 現金流量折現.md>)
+    - [3 - 公司財務績效與競爭優勢之關係](<././財務管理與投資/3 - 公司財務績效與競爭優勢之關係.md>)
+    - [1 - Corporate Finance](<././財務管理與投資/1 - Corporate Finance.md>)
+    - [5 - 債券的定價](<././財務管理與投資/5 - 債券的定價.md>)
+    - 經典文章
+      - [Flavors of Fraud](<././財務管理與投資/經典文章/Flavors of Fraud.md>)

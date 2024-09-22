@@ -95,7 +95,7 @@ flowchart LR
 業主對於債務有「無限清償責任」。
 
 >[!Note]
->在法律上，企業與業主是同一個體，但在會計中，還是要遵守 [[#Economic Entity Assumption]]。
+>在法律上，企業與業主是同一個體，但在會計中，還是要遵守 [#Economic Entity Assumption](</./會計/1 - Introduction.md#Economic Entity Assumption>)。
 
 ###### Partnership（合夥）
 
@@ -184,7 +184,7 @@ Assets, liabilities, share-holders' equity 同時也是「資產負債表」的�
 
 # 衡量公司的經營績效
 
-一般常用 [[2 - 各種財務指標#EPS|EPS]] 衡量公司的經營績效：
+一般常用 [EPS](</財務管理與投資/2 - 各種財務指標.md#EPS>) 衡量公司的經營績效：
 
 $$
 \textnormal{EPS} = {\textnormal{net income} - \overset{特別股股利}{\textnormal{preferred dividends}} \over \textnormal{Avg. shares outstanding}}
