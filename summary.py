@@ -7,7 +7,7 @@ BULLET_POINT = "- "
 
 
 def generate_summary(path: str, indent: str = "") -> int:
-    basename = os.path.basename(path) if os.path.basename(path) != "." else "Software"
+    basename = os.path.basename(path) if os.path.basename(path) != "." else "Economics"
     with open(SUMMARY_FILE_NAME, "a") as file:
         file.write(f"{indent}{BULLET_POINT}{basename}\n")
     children_count = 0
