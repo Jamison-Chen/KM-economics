@@ -184,7 +184,7 @@ Assets, liabilities, share-holders' equity 同時也是「資產負債表」的�
 
 # 衡量公司的經營績效
 
-一般常用 [[L2 - 各種財務指標#EPS|EPS]] 衡量公司的經營績效：
+一般常用 [[2 - 各種財務指標#EPS|EPS]] 衡量公司的經營績效：
 
 $$
 \textnormal{EPS} = {\textnormal{net income} - \overset{特別股股利}{\textnormal{preferred dividends}} \over \textnormal{Avg. shares outstanding}}
