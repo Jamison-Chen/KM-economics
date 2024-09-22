@@ -4,7 +4,8 @@
 		{"id":"338ca9e7a9dbfba7","type":"text","text":"[Adaptive Expectations](https://en.wikipedia.org/wiki/Adaptive_expectations)","x":-104,"y":-349,"width":258,"height":64},
 		{"id":"200ce89223215210","type":"text","text":"[Rational Expectations](https://en.wikipedia.org/wiki/Rational_expectations)","x":264,"y":-349,"width":255,"height":64},
 		{"id":"789c23e8583452d0","type":"text","text":"[其他文章](https://wiki.mbalib.com/zh-tw/%E8%A7%84%E5%88%B6%E4%BF%98%E8%99%8F%E7%90%86%E8%AE%BA)","x":604,"y":-168,"width":140,"height":54},
-		{"id":"eef28742deb1b192","type":"text","text":"[Regulatory Capture](https://en.wikipedia.org/wiki/Regulatory_capture)","x":286,"y":-172,"width":233,"height":63}
+		{"id":"eef28742deb1b192","type":"text","text":"[Regulatory Capture](https://en.wikipedia.org/wiki/Regulatory_capture)","x":286,"y":-172,"width":233,"height":63},
+		{"id":"a7b3211d711b550a","x":-105,"y":-6,"width":599,"height":508,"type":"text","text":"#### United States Michigan Consumer Sentiment\n\nThe Index of Consumer Expectations focuses on three areas:\n\n- How consumers view prospects for their own financial situation?\n- How they view prospects for the general economy over the near term?\n- Their view of prospects for the economy over the long term.\n\nEach monthly survey contains approximately 50 core questions, each of which tracks a different aspect of consumer attitudes and expectations. The samples for the Surveys of Consumers are statistically designed to be representative of all American households, excluding those in Alaska and Hawaii. Each month, a minimum of 500 interviews are conducted by telephone."}
 	],
 	"edges":[
 		{"id":"fa109c7aa1d51a3b","fromNode":"338ca9e7a9dbfba7","fromSide":"right","toNode":"200ce89223215210","toSide":"left","fromEnd":"arrow"},
